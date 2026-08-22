@@ -1,0 +1,41 @@
+id,localidad,personas,fecha_visita,ingreso,cobertura_salud,satisfaccion,servicios
+1,Ramallo,3,2025-03-14,185000,si,buena,agua;luz;gas
+2,Córdoba,5,2025-03-15,240500,no,regular,agua;luz
+3,Concepción,2,2025-03-15,,NULL,NULL,luz
+4,Ramallo,4,2025-03-16,198000,si,buena,agua;luz;gas
+5,ramallo,1,2025-03-16,120000,NULL,NULL,luz
+7,Córdoba,6,2025-03-17,310000,no,mala,agua;luz;gas;cloacas
+8,Concepción,3,2025-03-17,175000,si,regular,agua;luz
+9,Ramallo ,2,2025-03-18,999999,no,mala,luz;gas
+10,Córdoba,4,2025-03-19,205000,NULL,NULL,agua;luz;gas
+11,Concepción,7,2025-03-20,260000,si,buena,agua;luz;gas;cloacas
+13,Ramallo,3,2025-03-20,190000,NULL,NULL,agua;luz
+14,Córdoba,2,2025-03-21,168000,no,regular,agua
+15,Ramallo,3,2025-03-21,172000,si,regular,agua;luz;gas
+16,CONCEPCIÓN,4,2025-03-24,195000,no,buena,agua;luz
+17,Córdoba,2,2025-03-24,210000,si,regular,agua;luz;gas
+18,Cordoba,5,25/03/2025,155000,NULL,NULL,luz
+19,Ramallo,3,2025-03-25,188000,no,mala,agua;luz
+20,Concepción,6,2025-03-26,225000,si,buena,agua;luz;gas;cloacas
+21,Ramallo,2,2025-03-26,163000,NULL,NULL,agua;luz
+22,Córdoba,4,2025-03-27,201000,si,regular,agua;luz;gas
+23,ramallo,3,2025-03-27,179000,no,buena,"agua, luz"
+24,Concepción,5,2025-03-28,232000,si,regular,agua;luz;gas
+25,Córdoba,1,28/03/2025,148000,NULL,NULL,luz
+26,Ramallo,4,2025-03-31,216000,no,regular,agua;luz;gas
+27,Concepción,2,2025-03-31,193000,si,mala,agua;luz
+30,Ramallo,7,2025-04-01,244000,si,buena,agua;luz;gas;cloacas
+31,CONCEPCIÓN,4,2025-04-02,181000,NULL,NULL,agua;luz
+32,Córdoba,3,2025-04-02,207000,no,regular,agua;luz;gas
+33,Ramallo,5,02/04/2025,169000,si,regular,agua;luz
+34,Concepción,2,2025-04-03,236000,no,buena,"agua, luz, gas"
+35,Córdoba,4,2025-04-03,152000,NULL,NULL,agua
+36,Ramallo,6,2025-04-04,199000,si,mala,agua;luz;gas
+37,Concepción,3,2025-04-04,223000,no,regular,agua;luz
+38,Córdoba,2,2025-04-07,0,si,mala,luz
+39,Ramallo,12,07/04/2025,620000,no,buena,agua;luz;gas;cloacas
+40,Concepción,4,2025-04-08,186000,NULL,NULL,agua;luz
+41,Córdoba,3,2025-04-08,213000,si,regular,agua;luz;gas
+41,Córdoba,5,2025-04-08,254000,si,buena,agua;luz;gas
+42,Ramallo,2,2025-04-09,176000,no,mala,agua;luz
+42,Ramallo,2,2025-04-09,176000,no,mala,agua;luz
