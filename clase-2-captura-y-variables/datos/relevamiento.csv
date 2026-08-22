@@ -1,0 +1,13 @@
+id,localidad,personas,fecha_visita,ingreso,cobertura_salud,satisfaccion,servicios
+1,Ramallo,3,2025-03-14,185000,si,buena,agua;luz;gas
+2,Córdoba,5,2025-03-15,240500,no,regular,agua;luz
+3,Concepción,2,2025-03-15,,NULL,NULL,luz
+4,Ramallo,4,2025-03-16,198000,si,buena,agua;luz;gas
+5,ramallo,1,2025-03-16,120000,NULL,NULL,luz
+7,Córdoba,6,2025-03-17,310000,no,mala,agua;luz;gas;cloacas
+8,Concepción,3,2025-03-17,175000,si,regular,agua;luz
+9,Ramallo ,2,2025-03-18,999999,no,mala,luz;gas
+10,Córdoba,4,2025-03-19,205000,NULL,NULL,agua;luz;gas
+11,Concepción,7,2025-03-20,260000,si,buena,agua;luz;gas;cloacas
+13,Ramallo,3,2025-03-20,190000,NULL,NULL,agua;luz
+14,Córdoba,2,2025-03-21,168000,no,regular,agua

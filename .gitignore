@@ -1,0 +1,10 @@
+.venv/
+.work/
+__pycache__/
+.ipynb_checkpoints/
+.venv-colab/
+crudo/
+generado/
+.DS_Store
+documentos/
+imagenes/
